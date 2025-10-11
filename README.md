@@ -28,6 +28,6 @@ Follow my progress, and feel free to connect or give feedback! 🚀
 ---
 
 📫 **Connect with me:**  
-- [LinkedIn](www.linkedin.com/in/ahmed-bashir-053237354)  
+- [LinkedIn]((https://www.linkedin.com/in/ahmed-bashir-053237354/))  
 
 
