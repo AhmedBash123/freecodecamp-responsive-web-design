@@ -4,25 +4,24 @@ This repository is where I will store all of my completed projects from the "Res
 
 ---
 
-### ## Certification Progress
+## 🌐 HTML Course Progress (freeCodeCamp)
 
-* **[✅] Basic HTML**
-* **[▶️] Semantic HTML, Forms, and Accessibility**
-* **[ ] Basic CSS**
-* **[ ] CSS Box Model and Flexbox**
-* **[ ] CSS Grid**
-* **[ ] Final Certification Projects**
+I’m currently learning **HTML** through freeCodeCamp.  
+I’ve completed the **Basic HTML** section and started working on the next modules.  
+
+| Module | Progress | Status |
+| :--- | :---: | :--- |
+| **Basic HTML** | ████████████████████████ 100% | ✅ Completed |
+| **Semantic HTML** | ░░░░░░░░░░░░░░░░░░░░░░░░ 0% | 🧱 Not Started |
+| **Forms and Tables** | █░░░░░░░░░░░░░░░░░░░░░░░ 2% | 🚧 In Progress |
+| **Accessibility** | ░░░░░░░░░░░░░░░░░░░░░░░░ 0% | ♿ Not Started |
+| **HTML Review** | ░░░░░░░░░░░░░░░░░░░░░░░░ 0% | 📘 Not Started |
 
 ---
 
-### ## Key Projects Completed
+### 🎯 Next Goal  
+Start the **Semantic HTML** module to improve my understanding of web structure and accessibility.
 
-| Project | What I Learned |
-| :--- | :--- |
-| **Video Compilation Page** | Structuring a page with sections and embedding external media using iframes. |
-| **Travel Agency Page** | Using figure and figcaption to semantically group images with their descriptions. |
-| **Cat Photo App** | Core HTML structure, forms, using image tags, creating lists, and linking to external sites. |
-| **Recipe Page** | Using a variety of semantic HTML tags to structure a complex document. |
 
 📫 **Connect with me:**  
 - [LinkedIn](https://www.linkedin.com/in/ahmed-bashir-053237354/) 
