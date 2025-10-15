@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Survey Form</title>
+  </head>
+  <body>
+    <h1 id="title">Hotel Guest Experience Survey</h1>
+    <p id="description">
+      Please take a few minutes to help us improve your experience by filling out this short survey.
+    </p>
+
+    <form id="survey-form">
+      <!-- Name -->
+      <label id="name-label" for="name">Name:</label>
+      <input
+        type="text"
+        id="name"
+        name="name"
+        placeholder="Enter your full name"
+        required
+      />
+
+      <!-- Email -->
+      <label id="email-label" for="email">Email:</label>
+      <input
+        type="email"
+        id="email"
+        name="email"
+        placeholder="Enter your email address"
+        required
+      />
+
+      <!-- Number -->
+      <label id="number-label" for="number">Age:</label>
+      <input
+        type="number"
+        id="number"
+        name="age"
+        placeholder="Enter your age"
+        min="10"
+        max="100"
+      />
+
+      <!-- Dropdown -->
+      <label for="dropdown">How did you hear about us?</label>
+      <select id="dropdown" name="source">
+        <option value="">Select an option</option>
+        <option value="friends">Friends / Family</option>
+        <option value="ads">Social Media Ads</option>
+        <option value="online">Online Search</option>
+      </select>
+
+      <!-- Radio Buttons -->
+      <p>Would you stay with us again?</p>
+      <label>
+        <input type="radio" name="return" value="yes" /> Yes
+      </label>
+      <label>
+        <input type="radio" name="return" value="no" /> No
+      </label>
+
+      <!-- Checkboxes -->
+      <p>What did you like most about your stay? (Select all that apply)</p>
+      <label>
+        <input type="checkbox" value="service" /> Service
+      </label>
+      <label>
+        <input type="checkbox" value="food" /> Food
+      </label>
+      <label>
+        <input type="checkbox" value="location" /> Location
+      </label>
+      <label>
+        <input type="checkbox" value="price" /> Price
+      </label>
+
+      <!-- Textarea -->
+      <p>Any additional comments or suggestions?</p>
+      <textarea
+        id="comments"
+        name="comments"
+        rows="5"
+        cols="30"
+        placeholder="Write your comments here..."
+      ></textarea>
+
+      <!-- Submit Button -->
+      <button id="submit" type="submit">Submit</button>
+    </form>
+  </body>
+</html>
