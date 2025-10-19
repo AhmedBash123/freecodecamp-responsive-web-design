@@ -1,0 +1,45 @@
+/* file: styles.css */
+.blog-post-card {
+  border: 2px dashed;
+  border-radius: 20%;
+  background-color: white;
+  text-align: center;
+  width: 50%;
+  margin: auto;
+}
+
+.post-img {
+    margin-top: 15px;
+    margin-bottom: 10px; 
+    width: auto;
+    border-bottom: 2px dashed;
+}
+
+.post-content {
+  text-align: center;
+  padding: 20px;
+}
+
+.post-title {
+  color: green;
+}
+
+.post-excerpt {
+  color: green;
+}
+
+.read-more {
+  color: purple;
+  background-color: green;
+  display: inline-block;
+  margin: 10px;
+  padding: 10px;
+  border: 3px dashed;
+  border-radius: 20%;
+}
+.read-more:hover {
+  /* This changes the background color when the user hovers over the button */
+  background-color: #4a5568; /* A darker shade for the hover effect */
+}
+
+a:hover {background-color: blue;}
