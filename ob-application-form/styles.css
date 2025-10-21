@@ -1,0 +1,44 @@
+/* Focus styling */
+input:focus,
+textarea:focus {
+  border-color: red;
+}
+
+/* Invalid input styling */
+input:invalid,
+select:invalid,
+textarea:invalid {
+  border-color: red;
+}
+
+/* Valid input styling */
+input:valid,
+select:valid,
+textarea:valid {
+  border-color: green;
+}
+
+/* Hover effect on submit button */
+button:hover {
+  background-color: black;
+  color: white;
+}
+
+/* Style for selected radio button */
+.radio-group input[type="radio"]:checked {
+  border-color: blue;         /* Requirement #15 */
+  background-color: green;    /* Requirement #16 */
+  box-shadow: 0 0 5px blue;   /* Requirement #17 */
+}
+
+/* Change text color of associated label when radio is selected */
+.radio-group label:has(input[type="radio"]:checked) {
+  color: blue;                /* Requirement #18 */
+}
+
+/* Style the first input field differently */
+input:first-of-type {
+  border-radius: 10px;  
+  border: 2px solid blue;
+  background-color: #f0f8ff;
+}
