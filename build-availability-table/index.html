@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Availability Schedule</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <h1>Schedule</h1>
+
+    <table>
+      <tr>
+        <th>Time</th>
+        <th>Room 1</th>
+        <th>Room 2</th>
+      </tr>
+
+      <tr class="sharp">
+        <th class="time">9:00</th>
+        <td class="available-2"></td>
+        <td class="available-5"></td>
+      </tr>
+
+      <tr class="half">
+        <th class="time">9:30</th>
+        <td class="available-0"></td>
+        <td class="available-4"></td>
+      </tr>
+
+      <tr class="sharp">
+        <th class="time">10:00</th>
+        <td class="available-1"></td>
+        <td class="available-3"></td>
+      </tr>
+
+      <tr class="half">
+        <th class="time">10:30</th>
+        <td class="available-3"></td>
+        <td class="available-2"></td>
+      </tr>
+
+      <tr class="sharp">
+        <th class="time">11:00</th>
+        <td class="available-5"></td>
+        <td class="available-1"></td>
+      </tr>
+    </table>
+
+    <div id="legend">
+      <span>Availability</span>
+      <div id="legend-gradient"></div>
+    </div>
+  </body>
+</html>
