@@ -1,0 +1,46 @@
+body {
+  font-family: 'Baskervville', serif;
+  margin: 0;
+  padding: 0;
+  background-color: #fdfcf8;
+  color: #333;
+}
+
+.newspaper-layout {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: auto 1fr 1fr 1fr;
+  grid-template-areas:
+    "title title title"
+    "feature-article feature-article cover-image"
+    "secondary-article secondary-article cover-image"
+    "small-article1 small-article2 small-article3";
+  gap: 20px;
+  padding: 20px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.title { grid-area: title; text-align: center; font-family: 'Anton', sans-serif; font-size: 2.5rem; }
+.feature-article { grid-area: feature-article; }
+.secondary-article { grid-area: secondary-article; }
+.cover-image { grid-area: cover-image; }
+.small-article1 { grid-area: small-article1; }
+.small-article2 { grid-area: small-article2; }
+.small-article3 { grid-area: small-article3; }
+
+.cover-image img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 5px;
+}
+
+h1, h2, h3 {
+  font-family: 'Raleway', sans-serif;
+}
+
+p {
+  line-height: 1.6;
+  font-size: 1rem;
+}
