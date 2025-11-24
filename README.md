@@ -1,4 +1,4 @@
-# freeCodeCamp – Responsive Web Design & CSS Mastery
+# freeCodeCamp – Full Stack Development
 
 ## 🌱 My Learning Journey
 
