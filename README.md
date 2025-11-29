@@ -1,4 +1,4 @@
-# freeCodeCamp – Full Stack Development
+# freeCodeCamp – Front-End Development
 
 ## 🌱 My Learning Journey
 
