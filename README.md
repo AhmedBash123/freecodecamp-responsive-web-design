@@ -3,9 +3,9 @@
 ## 🌱 My Learning Journey
 
 I’m progressing through the **freeCodeCamp** Front-End path.  
-After completing **100% of HTML**, I’ve now officially finished **ALL CSS modules (100%)** — including layout, design, responsive techniques, animations, and multiple certification projects. 🎉
+After completing **100% of HTML** and **100% of CSS**, I have now officially **completed the entire JavaScript curriculum (100%)** — including all certification projects.
 
-I’m now moving on to **Basic JavaScript**, continuing my journey toward becoming a **complete Software Engineer** — from structure, to styling, to dynamic behavior.
+This marks a major milestone in my journey toward becoming a **Software Engineer**.
 
 ---
 
@@ -14,100 +14,117 @@ I’m now moving on to **Basic JavaScript**, continuing my journey toward becomi
 ### **HTML Progress**
 | Module | Progress | Status |
 | :------ | :------: | :------: |
-| **Basic HTML** | ██████████ 100% | ✅ Completed |
-| **Semantic HTML** | ██████████ 100% | ✅ Completed |
-| **Forms & Tables** | ██████████ 100% | ✅ Completed |
-| **Accessibility** | ██████████ 100% | ✅ Completed |
-| **HTML Review** | ██████████ 100% | ✅ Completed |
+| Basic HTML | ██████████ 100% | ✅ Completed |
+| Semantic HTML | ██████████ 100% | ✅ Completed |
+| Forms & Tables | ██████████ 100% | ✅ Completed |
+| Accessibility | ██████████ 100% | ✅ Completed |
+| HTML Review | ██████████ 100% | ✅ Completed |
 
 ---
 
 ### **CSS Progress**
 | CSS Module | Progress | Status |
 | :------ | :------: | :------: |
-| **Computer Basics** | ██████████ 100% | ✅ Completed |
-| **Basic CSS** | ██████████ 100% | ✅ Completed |
-| **Design** | ██████████ 100% | ✅ Completed |
-| **Absolute & Relative Units** | ██████████ 100% | ✅ Completed |
-| **Pseudo-Classes & Elements** | ██████████ 100% | ✅ Completed |
-| **Colors** | ██████████ 100% | ✅ Completed |
-| **Styling Forms** | ██████████ 100% | ✅ Completed |
-| **The Box Model** | ██████████ 100% | ✅ Completed |
-| **Flexbox** | ██████████ 100% | 🃏 Completed – *Build a Page of Playing Cards* |
-| **Typography** | ██████████ 100% | ✅ Completed |
-| **Accessibility** | ██████████ 100% | ✅ Completed |
-| **Positioning** | ██████████ 100% | ✅ Completed |
-| **Attribute Selectors** | ██████████ 100% | 🗃️ Completed – *Build a Book Inventory App* |
-| **Responsive Design** | ██████████ 100% | 📘 Completed – *Technical Documentation Page* |
-| **Variables** | ██████████ 100% | ✅ Completed |
-| **Grid** | ██████████ 100% | 🛒 Completed – *Product Landing Page* |
-| **Animations** | ██████████ 100% | 🎬 Completed |
-| **CSS Review** | ██████████ 100% | 🔁 Completed |
+| Computer Basics | ██████████ 100% | ✅ Completed |
+| Basic CSS | ██████████ 100% | ✅ Completed |
+| Design | ██████████ 100% | ✅ Completed |
+| Absolute & Relative Units | ██████████ 100% | ✅ Completed |
+| Pseudo-Classes & Elements | ██████████ 100% | ✅ Completed |
+| Colors | ██████████ 100% | ✅ Completed |
+| Styling Forms | ██████████ 100% | ✅ Completed |
+| Box Model | ██████████ 100% | ✅ Completed |
+| Flexbox | ██████████ 100% | 🃏 Completed – Build a Page of Playing Cards |
+| Typography | ██████████ 100% | ✅ Completed |
+| Accessibility | ██████████ 100% | ✅ Completed |
+| Positioning | ██████████ 100% | ✅ Completed |
+| Attribute Selectors | ██████████ 100% | 🗃️ Completed – Book Inventory App |
+| Responsive Design | ██████████ 100% | 📘 Completed – Technical Documentation Page |
+| Variables | ██████████ 100% | ✅ Completed |
+| Grid | ██████████ 100% | 🛒 Completed – Product Landing Page |
+| Animations | ██████████ 100% | 🎬 Completed |
+| CSS Review | ██████████ 100% | 🔁 Completed |
 
 ---
 
-## 🧠 What I Gained from CSS
+## 🧠 JavaScript – Completed (100%)
 
-CSS transformed my understanding of how websites look, feel, and behave.  
-Here’s what I learned:
+I have officially completed the **entire freeCodeCamp JavaScript curriculum**.
 
-- 🎨 Designing beautiful, readable user interfaces  
-- 📐 Building layouts with **Flexbox** and **CSS Grid**  
-- 🔧 Using units, variables, and responsive techniques  
-- 🖌 Styling forms, buttons, backgrounds, typography, and UI components  
-- 🕹 Smooth animations and transitions for modern experiences  
-- ♿ Improving accessibility and usability  
-- 🧱 Creating fully responsive pages across all devices  
+**Total Progress:** **1048 / 1048 steps completed**
 
-CSS gave me the power to **turn structure into design**, and design into a real experience.
+### **JavaScript Modules**
+| Module | Progress | Status |
+| :------ | :------: | :------: |
+| Variables and Strings | ██████████ 100% | ✅ Completed |
+| Booleans and Numbers | ██████████ 100% | ✅ Completed |
+| Functions | ██████████ 100% | ✅ Completed |
+| Arrays | ██████████ 100% | ✅ Completed |
+| Objects | ██████████ 100% | ✅ Completed |
+| Loops | ██████████ 100% | ✅ Completed |
+| JavaScript Fundamentals Review | ██████████ 100% | ✅ Completed |
+| Higher Order Functions & Callbacks | ██████████ 100% | ✅ Completed |
+| DOM Manipulation & Events | ██████████ 100% | ✅ Completed |
+| JavaScript & Accessibility | ██████████ 100% | ✅ Completed |
+| Debugging | ██████████ 100% | ✅ Completed |
+| Regular Expressions | ██████████ 100% | ✅ Completed |
+| Form Validation | ██████████ 100% | ✅ Completed |
+| Dates | ██████████ 100% | ✅ Completed |
+| Audio & Video Events | ██████████ 100% | ✅ Completed |
+| Maps & Sets | ██████████ 100% | ✅ Completed |
+| localStorage & CRUD Operations | ██████████ 100% | ✅ Completed |
+| Classes | ██████████ 100% | ✅ Completed |
+| Recursion | ██████████ 100% | ✅ Completed |
+| Functional Programming | ██████████ 100% | ✅ Completed |
+| Asynchronous JavaScript | ██████████ 100% | ✅ Completed |
+| JavaScript Review | ██████████ 100% | ✅ Completed |
 
 ---
 
-## 🧱 Latest Projects
+## 🏆 JavaScript Certification Projects
 
-### **HTML Projects**
-- Hotel Guest Experience Survey Form  
-- Book Catalog Table  
-- Multimedia Player (Video + Audio)
+- **Markdown to HTML Converter**
+- **Drum Machine**
+- **Voting System**
+- **Bank Account Management Program**
+- **Weather App**
 
-### **CSS Projects**
-- **Build a Page of Playing Cards** – Flexbox  
-- **Book Inventory App** – Attribute Selectors  
-- **Technical Documentation Page** – Responsive Design  
-- **Product Landing Page** – CSS Grid  
+---
+
+## 🧠 What I Gained from JavaScript
+
+- Problem-solving and logical thinking
+- DOM manipulation and browser APIs
+- Event-driven programming
+- State management and persistence
+- Object-Oriented and Functional Programming
+- Asynchronous JavaScript and API consumption
+- Debugging and execution flow analysis
+
+JavaScript transformed static pages into **interactive, real-world applications**.
 
 ---
 
 ## 🎯 Next Steps
 
-### 📘 **Basic JavaScript (In Progress)**
-Now learning how to make web pages dynamic and interactive:
-- Variables, operators, strings  
-- Functions and scope  
-- Arrays and objects  
-- DOM manipulation  
-- Building interactive programs  
+### ⚛️ React.js
+- Components and JSX
+- State and props
+- Hooks
+- Single Page Applications (SPA)
 
-### ⚛️ **React.js (Coming Soon)**
-- Component-based UI  
-- State management  
-- SPA development  
-
-### 🧱 **Back-End Development**
-- Node.js  
-- Express  
-- MongoDB  
-- APIs & authentication  
-
-> Step by step, I’m building the skills to become a **Full-Stack Software Engineer**.
+### 🧱 Back-End Development
+- Node.js
+- Express
+- MongoDB
+- REST APIs & Authentication
 
 ---
 
 ## 👨‍💻 About Me
 
 **Ahmed Bashir Abdullahi**  
-> Building, breaking, and learning — one commit at a time.  
-📍 Cairo, Egypt  
+Building, breaking, and learning — one commit at a time.  
+📍 Cairo, Egypt
 
-🔗 **GitHub:** https://github.com/AhmedBash123  
-🔗 **LinkedIn:** https://www.linkedin.com/in/ahmed-bashir-053237354/
+**GitHub:** https://github.com/AhmedBash123  
+**LinkedIn:** https://www.linkedin.com/in/ahmed-bashir-053237354/
